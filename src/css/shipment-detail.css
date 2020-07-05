@@ -1,0 +1,51 @@
+.shipment-datail-container{
+    width: 1000px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 26px;
+    border-radius: 10px;
+    background: rgb(255, 136, 0);
+    
+}
+
+.shipment-detail-label{
+    box-shadow: 0 0 3px 1px #9a949a;
+    margin-top: 4px;
+    background-color: #ffffff;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    border-radius: 8px;
+   
+     
+    /* width: 50%; */
+
+    /* transition: width .35s cubic-bezier(0.075, 0.82, 0.165, 1); */
+}
+.edit{
+    font-size: 14px;
+    top: 142px;
+    left: 253px;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    float: right;
+    padding: 14px;
+    /* width: 50%; */
+}
+.inline { 
+    display: inline-block; 
+   width : 49%;
+   margin-right: 10px;
+}
+
+.textSubClass {
+    font-size:18px;
+    padding:10px 10px 10px 5px;
+    display:block;
+    width:100%;
+    background: none;
+    border:none;
+    border-bottom:1px solid #757575;
+  }

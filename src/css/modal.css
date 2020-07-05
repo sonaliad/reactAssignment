@@ -1,0 +1,51 @@
+.show-modal{
+    display: block;
+}
+.hide-modal{
+    display: none;
+}
+
+.modal{
+    margin: auto;
+    margin-top: 12%;
+    width: 500px;
+    background: white;
+    height: 300px;
+    border-radius: 8px;
+    border: 2px solid #ada6a6;
+}
+.modal-container{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+    height: 100%;
+    background: #0000002e;
+}
+.modal-body{
+  width: 100%;
+  padding-top: 111px;
+  padding-left: 19px;
+}
+.btn{
+    width: 73px;
+    height: 29px;
+    background: grey;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.btn-close{
+    background: #ce2d2d;
+}
+.btn-save{
+    background: #2c6fa9;
+}
+
+.text-input{
+    width: 82%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+}

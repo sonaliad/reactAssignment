@@ -1,0 +1,16 @@
+.pagination{
+    position: relative;
+    left: 41%;
+    display: inline-block;
+}
+.index-box{
+    width: 31px;
+    height: 23px;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 3px;
+    background: aliceblue;
+    text-align: center;
+    cursor: pointer;
+}

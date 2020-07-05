@@ -1,0 +1,49 @@
+.shipment-block{
+    width: 402px;
+    border: 1px solid #958e8e;
+    padding: 15px;
+    background: #f6f1f1;
+    border-radius: 6px;
+    margin: 8px;
+    display: inline-block;
+
+}
+
+.active{
+    background: #4e80c3;
+    color: white;
+}
+.active:hover{
+    background:white;
+    color:black;
+    color:  #4e80c3;
+}
+.completed{
+    background: #15aa67;
+    color: white;
+}
+.completed:hover{
+    background:white;
+    color:  #15aa67;
+}
+.new{
+    background: #b8b822;
+    color: white;
+}
+.new:hover{
+    background: white;
+    color:  #b8b822;
+}
+
+.name-container{
+
+}
+.status-container{
+
+}
+.more-details-container{
+
+}
+.more-details-link{
+   color: #5c48dd;
+}

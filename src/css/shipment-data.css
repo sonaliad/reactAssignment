@@ -1,0 +1,18 @@
+.shipment-data-container{
+    box-shadow: 0 0 3px 1px #9a949a;
+    margin-top: 8px;
+    background-color: #ffffff;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    border-radius: 8px;
+    
+}
+.shipment-data-label{
+    margin-right: 24px;
+    
+}
+.shipment-data-value{
+    
+}

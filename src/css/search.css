@@ -1,0 +1,16 @@
+.search.btn{
+    width: 73px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.btn-blue{
+    background: #2c6fa9;
+}
+
+.search.text-input{
+    width: 19%;
+    font-size: 14px;
+    border: 1px solid #ddd;
+}
